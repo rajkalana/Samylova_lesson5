@@ -1,0 +1,45 @@
+.wrapper {
+  display: flex;
+  font-family: 'OpenSans';
+  font-size: 19px;
+  line-height: 28px;
+  margin-left: 10px;
+}
+
+.block {
+  width: 250px;
+  margin-bottom: 18px;
+}
+
+.input {
+  width: 100%;
+  font-size: 15px;
+  box-sizing: border-box;
+}
+
+.speach {
+  width: 100%;
+  font-size: 15px;
+  box-sizing: border-box;
+
+}
+
+.text {
+  width: 450px;
+  margin-left: 20px;
+}
+
+.btn  {
+  display: flex;
+  box-sizing: border-box;
+  width: 231px;
+  height: 42px;
+  color: #fff;
+  font-size: 18px;
+  font-family: 'Open Sans';
+  font-weight: 400;
+  background-color: #dc3545;
+  border: none;
+  border-radius: 5px;
+  margin: 20px 10px;
+}
